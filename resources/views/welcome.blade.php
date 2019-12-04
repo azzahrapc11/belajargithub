@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Belajar GitHub
+                    Hello
                 </div>
 
                 <div class="links">
