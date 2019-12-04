@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello
+                    <marquee><h1>AKU SAYANG KAMU</h1></marquee>
                 </div>
 
                 <div class="links">
